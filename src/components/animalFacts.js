@@ -1,4 +1,4 @@
-import { animals } from './../js/animals';
+import { animals } from '../js/animals'
 import React from 'react';
 
 const title = '';

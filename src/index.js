@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import './styles.css';
+import './css/styles.css';
 import animalFacts from './components/animalFacts';
 import reportWebVitals from './reportWebVitals';
 
